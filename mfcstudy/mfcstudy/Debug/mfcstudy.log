@@ -1,0 +1,17 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.MSVC.Toolset.Common.props(20,5): warning MSB4211: "IntDir" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Platforms\Win32\ImportBefore\Default\Intel.Cpp1A.Win32.default.props(53,5)"에서 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(39,5): warning MSB4211: "IntermediateOutputPath" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(38,5)"에서 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(30,5): warning MSB4211: "DebugType" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets(29,5)"에서 사용되었습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(373,5): warning MSB4211: "CleanFile" 속성에 처음으로 값이 설정되고 있지만 이미 "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(38,5)"에서 사용되었습니다.
+  pch.cpp
+  ChildFrm.cpp
+  ClassView.cpp
+  FileView.cpp
+  MainFrm.cpp
+  mfcstudy.cpp
+  mfcstudyDoc.cpp
+  mfcstudyView.cpp
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+  ViewTree.cpp
+  코드를 생성하고 있습니다...
+  mfcstudy.vcxproj -> C:\redjen\windows-mfc-study\mfcstudy\Debug\mfcstudy.exe
